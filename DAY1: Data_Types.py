@@ -9,6 +9,6 @@ str1 = input()
 print(i+num1)
 # Print the sum of the double variables on a new line.
 print(d+num2)
-# Concatenate and print the String variables on a new line
+# Concatenate and print the String variables on a new line.
 # The 's' variable above should be printed first.
 print(s+str1)
